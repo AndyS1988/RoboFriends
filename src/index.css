@@ -6,6 +6,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(to right, rgb(100, 108, 107), rgb(0, 73, 91));
+  width: 100vw;
+  height: 100vh;
+  background-repeat: repeat;
 }
 
 code {

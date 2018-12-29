@@ -1,0 +1,16 @@
+.robo-card {
+	text-align: center;
+	display: inline-block;
+	background: linear-gradient(to top, rgb(157, 255, 157), rgb(153, 162, 166));
+	border-style: none;
+	border-radius: 15px;
+	padding: 5px;
+	margin: 10px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	transition: transform 0.5s linear;
+}
+
+.robo-card:hover {
+	transform: scale(1.05);
+}
+
