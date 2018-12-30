@@ -23,3 +23,9 @@ h1 {
 	font-size: 3em;
 	color: rgb(22, 241, 192);
 }
+
+@media only screen and (max-width: 600px) {
+    h1 {
+        font-size: 2em;
+    }
+}

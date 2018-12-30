@@ -4,7 +4,7 @@ import './Card.css';
 const Card = (props) => {
 	return (
 		<div className="robo-card">
-			<img alt='robo face' src={`https://robohash.org/${props.id}?200x200`} />
+			<img alt='robo face' src={`https://robohash.org/${props.id}`} />
 			<div>
 				<h2>{props.name}</h2>
 				<p>{props.email}</p>
