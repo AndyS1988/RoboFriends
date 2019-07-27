@@ -2,7 +2,7 @@
   "name": "Robot-Friends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "",
+  "homepage": "http://AndyS1988.github.io/RoboFriends",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.6.3",
